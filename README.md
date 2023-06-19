@@ -7,5 +7,5 @@ I'm a Sociologist and Data Scientist 👩‍💻. I'm interested in social polic
 <i> [Email](mailto:j.suarezsarrazin@gmail.com) </i> <br>
 
 ### Go to my [CV](https://jignacioss.github.io/cv)
-
+### Go to my [Publications](https://github.com/jignacioss/publications)
 <center> <img src="/docs/profile_pic.png" width="300"/> </center>
