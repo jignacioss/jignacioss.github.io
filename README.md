@@ -8,5 +8,5 @@ I'm a Sociologist and Data Scientist 👩‍💻. I'm interested in social polic
 
 ### Go to my [CV](https://jignacioss.github.io/cv)
 ### Go to my [Publications](https://jignacioss.github.io/publications)
-### Got to my [Linkedin](https://www.linkedin.com/in/jose-ignacio-suarez-sarrazin/)
+### Go to my [Linkedin](https://www.linkedin.com/in/jose-ignacio-suarez-sarrazin/)
 <center> <img src="/docs/profile_pic.png" width="300"/> </center>
