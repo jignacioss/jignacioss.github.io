@@ -1,6 +1,6 @@
 # <center> Welcome! 👋 </center>
 
-I'm a Sociologist and Data Scientist 👩‍💻. I'm interested in skills, the future of work and education, and social policy in general. I'm currently working as an ISP on Vocational Education and Training at the [OECD Centre for Skills](https://www.oecd.org/skills/centre-for-skills/) <br>
+I'm a Policy Analyst at the OECD 👩‍💻. I'm interested in social welfare, skills, the future of work and education, and social policy in general. I'm currently working at the [Development Co-operation Directorate](https://www.oecd.org/skills/centre-for-skills/)) <br>
 <br>
 
 <b>Contact Information</b> <br>
