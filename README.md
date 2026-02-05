@@ -1,26 +1,26 @@
-# <center>Welcome! 👋</center>
+# José I. Suárez Sarrazin 👋
 
-I am a Policy Analyst specialising in **social policy, inequality, labour markets and quantitative analysis**, with experience across the **United Nations** and the **OECD**.  
-My work combines applied data science, survey microdata, and policy research to inform **evidence-based decision-making** on social development, skills, and inclusive growth.
+**Independent Policy & Data Consultant** *Specialising in Social Policy, Labour Markets, and Quantitative Diagnostics*
 
-I am particularly interested in:
-- poverty and inequality  
-- labour markets, skills and automation  
-- social protection and welfare systems  
-- measurement, indicators and data for development  
+I provide data-driven analysis and technical advice to international organisations, focusing on the intersection of **sustainable development, the green transition, and inequality.** My work combines applied data science (MIT) with extensive policy experience at the **OECD** and the **United Nations (ECLAC)**.
 
-<br>
+### 🛠 Technical Toolkit
+- **Data Science:** Python, R, Stata, SQL
+- **Specialisation:** Survey microdata processing, indicator construction, and reproducible policy workflows.
+- **Languages:** Spanish (Native), English (Fluent), French (Advanced), Portuguese (Advanced).
 
-<b>Contact</b>  
-<i><a href="mailto:j.suarezsarrazin@gmail.com">j.suarezsarrazin@gmail.com</a></i>  
-
-<br>
-
-### 👉 <a href="https://jignacioss.github.io/cv">CV</a>  
-### 👉 <a href="https://jignacioss.github.io/publications">Publications</a>  
-### 👉 <a href="https://www.linkedin.com/in/jose-ignacio-suarez-sarrazin/">LinkedIn</a>  
+### 🎯 Core Interest Areas
+- **Poverty & Inequality:** Measurement frameworks and funding approaches.
+- **Labour Markets:** Skills, automation risk, and green transition transitions.
+- **Social Protection:** Welfare system dynamics and social cohesion indicators.
 
 <br>
 
-<center><img src="/docs/profile_pic.png" width="300"/></center>
+### 📂 Portfolios & Links
+- 📄 **[Updated CV](https://jignacioss.github.io/cv)**
+- 📚 **[List of Publications](https://jignacioss.github.io/publications)**
+- ✉️ **[Get in Touch](mailto:j.suarezsarrazin@gmail.com)**
 
+<br>
+
+<center><img src="/docs/profile_pic.png" width="220" style="border-radius: 50%;"/></center>
